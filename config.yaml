@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Portfolio Website for Leon
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,13 +10,13 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Leon
   blog: {}
   contact:
-    address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+    address: 
+      - city: Cambridge
+        country: UK
+        street: Homerton Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
