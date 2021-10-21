@@ -89,7 +89,7 @@ params:
       - image: data.jpeg
         #subtitle: Lorem Etiam Nullam
         title: Example Work in R
-        url: blogs/analysis
+        url: blogs/data
       - image: chess.jpg
         #subtitle: Nisl Sed Aliquam
         title: Hobbies
@@ -97,7 +97,7 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+     #subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
       \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
       condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
       pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
