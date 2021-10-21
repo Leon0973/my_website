@@ -23,6 +23,6 @@ I have always been an academic, but I have also always been very keen on sports.
 
 During my short academic career, I have studied Economics at Sheffield Hallam University (SHU). During my time at SHU, I was involved in many societies and clubs. I also had the chance to take an industrial placement year, in which I went abroad to Shanghai and spent 1 year working for a mid-market investment bank, rotating between several departments.
 
-Now, in September 2021, I have embarked on a new Journey at **London Business School**, where I aim to learn and collaborate with the leading global business school in terms of international exposure and diversity. I look forward to the year ahead, where I can learn from the very best.
+Now, in October 2021, I have embarked on a new Journey at **London Business School**, where I aim to learn and collaborate with the leading global business school in terms of international exposure and diversity. I look forward to the year ahead, where I can learn from the very best.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c6/LBS_campus.jpg)

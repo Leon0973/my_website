@@ -89,7 +89,7 @@ params:
       - image: data.jpeg
         #subtitle: Lorem Etiam Nullam
         title: Example Work in R
-        url: blogs/data
+        url: blogs/analysis
       - image: chess.jpg
         #subtitle: Nisl Sed Aliquam
         title: Hobbies

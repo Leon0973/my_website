@@ -7,6 +7,7 @@ description: Here is an example of a data project i worked on
 draft: false
 image: pic08.jpg
 keywords: ""
-slug: data
-title: Data Project
+slug: analysis
+title: Example Work in R
+url: blogs/analysis
 ---
