@@ -56,17 +56,23 @@ params:
   image: ''
   name: Your name
   navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
     links:
       - name: Home
         url: '#'
       - name: Biography
-        url: blogs/Biography
+        url: blogs/B
       - name: CV
-        url: blogs/CV
+        url: blogs/C
       - name: Data Project
-        url: blogs/DataProject
+        url: blogs/D
         - name: Hobbies
-        url: blogs/Hobbies
+        url: blogs/H
     menu: Menu
     title: LS
   tiles:
