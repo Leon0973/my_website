@@ -76,19 +76,19 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: biography.jpg
         subtitle: I
         title: Biography
         url: blogs/Biography
-      - image: pic02.jpg
+      - image: Workspace. jpg.jpg
         subtitle: II
         title: CV
         url: blogs/CV
-      - image: pic03.jpg
+      - image: data.jpeg
         subtitle: III
         title: Data Project
         url: blogs/DataProject
-      - image: pic04.jpg
+      - image: chess.jpg
         subtitle: IV
         title: Hobbies
         url: blogs/Hobbies
