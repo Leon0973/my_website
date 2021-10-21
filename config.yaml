@@ -71,7 +71,7 @@ params:
         url: blogs/C
       - name: Data Project
         url: blogs/D
-        - name: Hobbies
+      - name: Hobbies
         url: blogs/H
     menu: Menu
     title: LS
