@@ -7,9 +7,9 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+   # subtitle: |-
+    #  A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+     # AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Leon
   blog: {}
   contact:
@@ -80,20 +80,20 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        title: Biography
+        url: blogs/biography
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
-        url: blogs/tempus
+        url: blogs/cv
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
-        url: blogs/magna
+        url: blogs/data
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/ipsum
+        url: blogs/hobbies
   two:
     buttonText: Get Started
     enable: yes

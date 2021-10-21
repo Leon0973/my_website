@@ -7,6 +7,6 @@ description: Please find attached my latest CV
 draft: false
 image: pic02.jpg
 keywords: ""
-slug: tempus
+slug: cv
 title: CV
 ---
