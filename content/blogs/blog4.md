@@ -7,6 +7,6 @@ description:These are some of my hobbies
 draft: false
 image: pic02.jpg
 keywords: ""
-slug: hobbies
+slug: ipsum
 title: Hobbies
 ---

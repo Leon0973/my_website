@@ -7,5 +7,5 @@ description: Here is an example of a data project i worked on
 draft: false
 image: pic02.jpg
 keywords: ""
-slug: data
+slug: magna
 title: Data Project

@@ -7,6 +7,6 @@ description: Here is a little bit about myself
 draft: false
 image: pic02.jpg
 keywords: ""
-slug: bio
+slug: aliquam
 title: Biography
 ---
