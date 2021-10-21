@@ -7,9 +7,7 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+    subtitle: This is my website highlighting some facts about me
     title: Hi, my name is Leon
   blog: {}
   contact:
@@ -21,11 +19,11 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: lsharma.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: 07577 067103
         title: Phone
   custom_css: []
   custom_js: []
@@ -53,10 +51,10 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/Leon0973
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/leonsharma/
   image: ''
   name: Your name
   navigation:
@@ -82,29 +80,22 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: I
+        title: Biography
+        url: blogs/Biography
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: II
+        title: CV
+        url: blogs/CV
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: III
+        title: Data Project
+        url: blogs/DataProject
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: IV
+        title: Hobbies
+        url: blogs/Hobbies
+        
   two:
     buttonText: Get Started
     enable: yes
