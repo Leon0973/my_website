@@ -19,7 +19,7 @@ Now, in September 2021, I have embarked on a new Journey at **London Business Sc
 draft: false
 image: 
 keywords: ""
-slug: Biography
+slug:B
 title: Biography
 ---
 

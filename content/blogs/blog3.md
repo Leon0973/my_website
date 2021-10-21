@@ -10,6 +10,6 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
 draft: false
 image:
 keywords: ""
-slug: Data Project
+slug:D
 title: Data Project
 ---

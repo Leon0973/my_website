@@ -4,6 +4,7 @@ title: Portfolio Website for Leon
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
+
 params:
   banner:
     buttonText: Get Started
@@ -74,16 +75,16 @@ params:
       - image: biography.jpg
         subtitle: I
         title: Biography
-        url: blogs/Biography
+        url: blogs/B
       - image: Workspace. jpg.jpg
         subtitle: II
         title: CV
-        url: blogs/CV
+        url: blogs/C
       - image: data.jpeg
         subtitle: III
         title: Data Project
-        url: blogs/DataProject
+        url: blogs/D
       - image: chess.jpg
         subtitle: IV
         title: Hobbies
-        url: blogs/Hobbies
+        url: blogs/H

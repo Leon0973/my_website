@@ -7,6 +7,6 @@ description: Lorem Etiam Nullam
 draft: false
 image: 
 keywords: ""
-slug: CV
+slug:C
 title: CV
 ---
