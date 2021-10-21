@@ -9,3 +9,4 @@ image: pic02.jpg
 keywords: ""
 slug: magna
 title: Data Project
+---
