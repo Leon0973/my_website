@@ -55,24 +55,19 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Biography
+        url: blogs/Biography
+      - name: CV
+        url: blogs/CV
+      - name: Data Project
+        url: blogs/DataProject
+        - name: Hobbies
+        url: blogs/Hobbies
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    title: LS
   tiles:
     enable: yes
     showcase:
