@@ -53,7 +53,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/leonsharma/
   image: ''
-  name: Your name
+  name: Leon Sharma
   navigation:
     button1:
       - name: Get Started
@@ -64,32 +64,26 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Biography
-        url: blogs/B
-      - name: CV
-        url: blogs/C
-      - name: Data Project
-        url: blogs/D
-      - name: Hobbies
-        url: blogs/H
+      - name: Blogs
+        url: blogs
     menu: Menu
-    title: LS
+   # title: LS
   tiles:
     enable: yes
     showcase:
       - image: biography.jpg
         subtitle: I
         title: Biography
-        url: blogs/B
+        url: blogs/bio
       - image: Workspace. jpg.jpg
         subtitle: II
         title: CV
-        url: blogs/C
+        url: blogs/cv
       - image: data.jpeg
         subtitle: III
         title: Data Project
-        url: blogs/D
+        url: blogs/data
       - image: chess.jpg
         subtitle: IV
         title: Hobbies
-        url: blogs/H
+        url: blogs/hobbies
