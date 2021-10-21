@@ -3,11 +3,10 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description:
+description: Here is a little bit about myself
 draft: false
 image: 
 keywords: ""
 slug:B
 title: Biography
 ---
-XXX

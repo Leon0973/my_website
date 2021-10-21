@@ -4,11 +4,10 @@ title: Portfolio Website for Leon
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
-
 params:
   banner:
     buttonText: Get Started
-    subtitle: This is my website highlighting some facts about me
+    #subtitle: This is my website highlighting some facts about me
     title: Hi, my name is Leon
   blog: {}
   contact:
@@ -34,12 +33,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Leon Sharma
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+      #- alt: HTML5 UP
+       # text: 'Design: '
+        #url: https://www.html5up.net
     social:
       - icon: fa-facebook
         label: Facebook
